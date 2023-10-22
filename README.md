@@ -1,9 +1,9 @@
-## Olá me chamo Jeferson ✌🏽
-
+## Eaí ✌🏽
+<h2 align="center" >I'm Jeferson, how is it goind ?</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jeferson-pereira-81253019b/)
-
-<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+<br/>
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"><br/>
 
 
 ![xTyke GitHub Stats](https://github-readme-stats.vercel.app/api?username=xTyke&show_icons=true&theme=tokyonight)
