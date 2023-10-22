@@ -1,5 +1,5 @@
 ## Eaí ✌🏽
-<h2 align="center">I'm Jeferson, how is it going ?</h2><br/>
+<h2 align="center">I'm Jeferson, how is it going ?</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jeferson-pereira-81253019b/)
