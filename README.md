@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jeferson-pereira-81253019b/)
 <br/>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"><br/>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -13,6 +12,7 @@
 </div>
     
 ### Tecnologias que eu estudo
+
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,4 +26,5 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-Formando em Análise e Desenvolvimento de Sistemas e sou fãboy da linguagem Python.
+
+<h3>Formando em Análise e Desenvolvimento de Sistemas e sou fãboy da linguagem Python.</h3>
