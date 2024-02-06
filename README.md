@@ -6,9 +6,12 @@
 <br/>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"><br/>
 
-
-![xTyke GitHub Stats](https://github-readme-stats.vercel.app/api?username=xTyke&show_icons=true&theme=tokyonight)
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+    
 ### Tecnologias que eu estudo
 
 <div style="display: inline_block"><br/>
