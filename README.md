@@ -27,4 +27,4 @@
 </div><br/>
 
 
-<h3>Formando em Análise e Desenvolvimento de Sistemas e sou fãboy da linguagem Python.</h3>
+<p>Formando em Análise e Desenvolvimento de Sistemas e sou fãboy da linguagem Python.</p>
